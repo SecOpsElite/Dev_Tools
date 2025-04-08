@@ -201,5 +201,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>Made with ❤️ for developers who need a quick start on Windows</p>
-  <p>© 2025 Your Name</p>
+  <p>© 2025 SecOpsElite</p>
 </div># Dev_Tools
