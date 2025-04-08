@@ -197,9 +197,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All the amazing open-source projects we're installing
 - [Shields.io](https://shields.io) for the badges
 
+## 🥇 CREDITS & LOVE ✨
+
+Created with passion by **SecOpsElite** — Cybersecurity Specialist
+
+Follow and support:
+
+- 🥇 [Facebook](https://www.facebook.com/secopselite)
+- 🥇 [Twitter (X)](https://x.com/secopselite)
+- 🥇 [Pinterest](https://www.pinterest.com/secopselite/)
+- 🥇 [Instagram](https://www.instagram.com/secopselite/)
+
 ---
 
-<div align="center">
-  <p>Made with ❤️ for developers who need a quick start on Windows</p>
-  <p>© 2025 SecOpsElite</p>
-</div># Dev_Tools
+> "Hunt bugs. Break systems. Report responsibly."
+
+<p align="center">
+  <img src="https://media.tenor.com/JynFuzUqj6EAAAAd/anonymous-dark.gif" width="350">
+</p>
